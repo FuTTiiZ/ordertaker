@@ -1,0 +1,14 @@
+{
+  "name": "ordertaker",
+  "version": "1.0.0",
+  "description": "McDonald's Ordertaker using OpenAI API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "author": "Benny",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
